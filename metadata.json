@@ -1,0 +1,6 @@
+{
+  "name": "Atomatic",
+  "description": "Smart Android auto-reply assistant powered by NotificationListenerService, Direct Reply actions, and configurable LLM AI responses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

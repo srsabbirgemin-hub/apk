@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Atomatic</string>
+    <string name="notification_listener_label">Atomatic Auto-Reply Listener</string>
+    <string name="accessibility_service_label">Atomatic Reply Helper</string>
+    <string name="accessibility_service_description">Monitors active messaging notifications and assists Atomatic with automated reply status detection.</string>
+    <string name="tab_home">Atomatic</string>
+    <string name="tab_templates">Templates</string>
+    <string name="tab_settings">Settings</string>
+    <string name="error_empty_reply">Please enter a custom auto-reply message.</string>
+    <string name="admob_app_id">ca-app-pub-1297210509163795~2946042085</string>
+    <string name="admob_banner_unit_id">ca-app-pub-1297210509163795/1632960414</string>
+    <string name="admob_app_open_unit_id">ca-app-pub-1297210509163795/4225278826</string>
+</resources>
